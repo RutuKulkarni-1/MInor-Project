@@ -1,4 +1,4 @@
-# MInor-Project
+# Minor-Project
 Project Title: Predictive Modelling for Click-Through-Rate Optimization at ConnectSphere Digital
 
 This project was developed as part of a minor project submission at EdiGlobe.
